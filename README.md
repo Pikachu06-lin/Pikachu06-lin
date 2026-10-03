@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yao Lin
 - 👀 I’m interested in Forumla 1 and AI
-- 🌱 I’m currently learning Assembly
+- 🌱 I’m currently learning Embedded Systems
 - 💞️ I’m looking to collaborate on making the world better
 - 📫 How to reach me: Yajlin@ucdavis.edu
 - 😄 Pronouns: He/Him
